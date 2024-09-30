@@ -50,6 +50,8 @@ const PlayVideo = () => {
                         <span>5</span>
                     </div>
                 </div>
+            </div>
+            <div className="comment">
                 <img src={user_profile} alt="" />
                 <div>
                     <h3>Adam <span>1 day ago</span></h3>
@@ -62,6 +64,8 @@ const PlayVideo = () => {
                         <span>5</span>
                     </div>
                 </div>
+            </div>
+            <div className="comment">
                 <img src={user_profile} alt="" />
                 <div>
                     <h3>Adam <span>1 day ago</span></h3>
@@ -74,6 +78,8 @@ const PlayVideo = () => {
                         <span>5</span>
                     </div>
                 </div>
+            </div>
+            <div className="comment">
                 <img src={user_profile} alt="" />
                 <div>
                     <h3>Adam <span>1 day ago</span></h3>
@@ -86,6 +92,36 @@ const PlayVideo = () => {
                         <span>5</span>
                     </div>
                 </div>
+            </div>
+            <div className="comment">
+                <img src={user_profile} alt="" />
+                <div>
+                    <h3>Adam <span>1 day ago</span></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae reprehenderit animi inventore odio quidem tenetur corrupti labore, deserunt dolorem error eaque neque. Suscipit eius nostrum deserunt aut fugit adipisci quibusdam.
+                    Facere culpa, laborum mollitia totam iste quibusdam ratione. Voluptatem, unde distinctio deleniti perferendis repudiandae fugiat commodi minima necessitatibus, aut eius fugit eligendi labore at voluptate nobis eaque cum quam laudantium?</p>
+                    <div className="comment-action">
+                        <img src={like} alt="" />
+                        <span>240</span>
+                        <img src={dislike} alt="" />
+                        <span>5</span>
+                    </div>
+                </div>
+            </div>
+            <div className="comment">
+                <img src={user_profile} alt="" />
+                <div>
+                    <h3>Adam <span>1 day ago</span></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae reprehenderit animi inventore odio quidem tenetur corrupti labore, deserunt dolorem error eaque neque. Suscipit eius nostrum deserunt aut fugit adipisci quibusdam.
+                    Facere culpa, laborum mollitia totam iste quibusdam ratione. Voluptatem, unde distinctio deleniti perferendis repudiandae fugiat commodi minima necessitatibus, aut eius fugit eligendi labore at voluptate nobis eaque cum quam laudantium?</p>
+                    <div className="comment-action">
+                        <img src={like} alt="" />
+                        <span>240</span>
+                        <img src={dislike} alt="" />
+                        <span>5</span>
+                    </div>
+                </div>
+            </div>
+            <div className="comment">
                 <img src={user_profile} alt="" />
                 <div>
                     <h3>Adam <span>1 day ago</span></h3>
